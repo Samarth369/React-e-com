@@ -1,0 +1,109 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.product-block {
+    width: 70%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    justify-content: center;
+    border: 1px solid;
+    margin: 40px 0px 0px 0px;
+}
+
+.imgandinof {
+    display: flex;
+}
+
+.product-img {
+    width: 40%;
+}
+
+.product-img img{
+    width: 100%;
+}
+
+.product-info {
+    width: 60%;
+    border-left: 1px solid;
+}
+
+.product-description {
+    font: 1.2em sans-serif;
+    margin: 10px;
+}
+
+.product-price-and-rating {
+    margin: 15px 10px;
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+}
+
+.product-price {
+    font: 1.3em sans-serif;
+}
+
+.product-rating {
+    font: 0.75em sans-serif;
+}
+
+.warrantyInformation {
+    margin: 5px 10px;
+    font: 0.75em sans-serif;
+}
+
+.shippingInformation {
+    margin: 5px 10px;
+    font: 0.75em sans-serif;
+}
+
+.availabilityStatus {
+    margin: 5px 10px;
+    font: 0.75em sans-serif;
+}
+
+.addorbuy {
+    display: flex;
+    flex-direction: column;
+}
+
+.addorbuy button {
+    margin: 10px 10px;
+    padding: 5px;
+    width: 25%;
+    border: none;
+    border-radius: 15px;
+    font: 1.1em sans-serif;
+    background-color: rgb(255, 176, 80);
+}
+
+.Customers {
+    margin: 10px;
+}
+
+.customer-review {
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid;
+    border-radius: 5px;
+}
+
+.reviewerName {
+    font: 0.8em sans-serif;
+}
+
+.reviewerrating{
+    font: 0.7em sans-serif;
+    margin: 4px 0px 0px 0px;
+}
+
+
+
+
+
+
+

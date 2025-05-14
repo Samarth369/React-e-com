@@ -1,0 +1,25 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+html , body {
+  height: 100%;
+  width: 100%;
+  background-color: #EDEDED ;
+  font-family: sans-serif;
+}
+
+.nav-bar button{
+  width: 50%;
+  height: 30px;
+  border: 1px solid aliceblue;
+  background-color: blue;
+  color: aliceblue;
+}
+
+
+
+
+
+
