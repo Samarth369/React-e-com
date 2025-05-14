@@ -30,9 +30,7 @@ export default function Productcard ({ api , setoncart}) {
                     <div className="Addtocart"><button onClick={() => {
                         setoncart(x => [...x,api])
                     }}>Add to cart</button></div>
-                    {/* <div className="Addtocart"><button onClick={ () => {
-                        navigate("/Buy" , {state : })
-                    }}>Buy</button></div> */}
+                   
                     <div className="Addtocart"><button  onClick={() => {
                             navigate("/Product-Details" , {state : api})
                     }}>see more info</button></div>
