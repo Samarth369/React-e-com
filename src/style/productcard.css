@@ -145,3 +145,34 @@
         display: flex;
     }
 }
+
+@media (max-width:500px) {
+    
+    .block {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .side-block {
+        display: none;
+    }
+
+    .product-image {
+        width: 100px;
+        height: max-content;
+    }
+
+    .products-description {
+        margin: 10px;
+        font-size: small;
+    }
+
+    .productcard {
+        border: 1px solid;
+        border-radius: 8px;
+        width: 100%;
+        margin: 20px;
+        display: flex;
+    }
+}
