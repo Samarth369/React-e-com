@@ -2,7 +2,7 @@
 
 E-commerce front-end built with React. This project demonstrates key shopping features like product listings, categories, cart functionality, and a responsive layout.
 
-🌐 **Live Demo:** 
+## 🌐 **Live Demo:** 
 here - https://react-e-com-wheat.vercel.app/
 
 ## 🚀 Features
